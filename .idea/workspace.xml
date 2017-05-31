@@ -11,12 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ddb75a0-b8f6-4969-91d3-a0ea16aef7d8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PID.cpp" afterPath="$PROJECT_DIR$/src/PID.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/PID.h" afterPath="$PROJECT_DIR$/src/PID.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.cpp" afterPath="$PROJECT_DIR$/src/main.cpp" />
-    </list>
+    <list default="true" id="0ddb75a0-b8f6-4969-91d3-a0ea16aef7d8" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,8 +51,8 @@
       <file leaf-file-name="PID.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PID.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-759">
-              <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+            <state relative-caret-position="252">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -361,12 +356,12 @@
       <option name="presentableId" value="Default" />
       <updated>1496134006687</updated>
       <workItem from="1496134007883" duration="2544000" />
-      <workItem from="1496136607317" duration="34094000" />
+      <workItem from="1496136607317" duration="34188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36638000" />
+    <option name="totallyTimeSpent" value="36732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
@@ -483,8 +478,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PID.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-759">
-          <caret line="24" column="51" lean-forward="false" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        <state relative-caret-position="252">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
